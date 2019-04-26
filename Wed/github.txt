@@ -1,0 +1,47 @@
+copy the user name
+
+
+name.github.io
+
+
+copy the name
+
+goto profile
+top right + simbol
+first option create repository
+
+past at the repository name
+
+description
+
+my fisrt web
+
+select public
+
+
+check that initialize this repository
+
+create repository
+
+after goto profile
+\
+
+open repositiory 
+
+
+
+
+
+
+
+now open desktop s/w
+
+
+singn in first
+
+click on the file 
+
+open clone repository
+select .io address
+
+
